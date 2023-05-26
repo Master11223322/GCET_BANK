@@ -6,7 +6,12 @@ a more personalized and convenient banking experience. I believe that the GCET B
 banking easier, more convenient, and more secure for our customers. I'm excited to launch this project and look 
 forward to seeing the benefits it brings to our customers.
 
+#
+![1212](https://github.com/Master11223322/GCET_BANK/assets/130510929/2e97a622-632a-432c-875d-8ef7165b3290)
+![Screenshot 2023-05-21 135405](https://github.com/Master11223322/GCET_BANK/assets/130510929/15bf60e5-c80e-4ed5-8bc8-e8ef709d7108)
+![Screenshot 2023-05-26 211025](https://github.com/Master11223322/GCET_BANK/assets/130510929/2f310ad6-d37b-4793-8c12-50660e77cf06)
 
+#
 
 ## This app features:
 * Send money to another account
